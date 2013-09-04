@@ -17,5 +17,10 @@ local xxx2222
 8
 9
 
+<<<<<<< Updated upstream
 x1
 x2
+=======
+y1
+y2
+>>>>>>> Stashed changes
