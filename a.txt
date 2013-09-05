@@ -1,4 +1,8 @@
 data
 data2
 local
+<<<<<<< Updated upstream
 web data inserted!
+=======
+local inserted!!!!
+>>>>>>> Stashed changes
